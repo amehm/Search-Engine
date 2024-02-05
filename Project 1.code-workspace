@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../Project 1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}
